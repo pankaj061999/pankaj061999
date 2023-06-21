@@ -1,6 +1,3 @@
-To fix the issues in the README file, please find the corrected version below:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Meena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
@@ -31,9 +28,7 @@ To fix the issues in the README file, please find the corrected version below:
   <a href="https://linkedin.com/in/pankaj-kumar-meena-1b3922176" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pankaj-kumar-meena-1b3922176" height="30" width="40" /></a>
   <a href="https://medium.com/@pankajkmeena12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@pankajkmeena12" height="30" width="40" /></a>
   <a href="https://leetcode.com/pankajkmeena12/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pankajkmeena12/" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@pankajkmeena12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme
-
--generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@pankajkmeena12" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@pankajkmeena12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@pankajkmeena12" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/pankajkumarmeena/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pankajkumarmeena/" height="30" width="40" /></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
@@ -65,9 +60,7 @@ To fix the issues in the README file, please find the corrected version below:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
