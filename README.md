@@ -4,9 +4,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj061999&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj061999" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pankaj061999&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj061999" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj061999" alt="pankaj061999" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pankaj061999" alt="pankaj061999" />
+  </a>
+</p>
 
 - 🌱 Currently Exploring **Frontend Development Opportunities**
 
@@ -15,8 +21,6 @@
 - 🌱 I’m currently learning **Node.js, golang, MongoDB**
 
 - 👯 I’m looking to collaborate on **Fronted Dev Project**
-
-- 🤝 I’m looking for help with **Web3 Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankaj061999](https://github.com/pankaj061999)
 
